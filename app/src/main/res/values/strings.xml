@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Upload</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="upload_image_here">Upload Image Here!</string>
+    <string name="aplikasi_deteksi_kanker">Aplikasi Deteksi Kanker</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu</string>
+    <string name="image_classifier_failed">Gambar gagal</string>
+    <string name="title">judul</string>
+    <string name="author">penulis</string>
+    <string name="tanggal">dd-mm-yyyy</string>
+    <string name="unknown">Tidak Diketahui</string>
+    <string name="back">Kembali\n</string>
+
+</resources>
